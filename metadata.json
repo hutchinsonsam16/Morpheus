@@ -1,0 +1,5 @@
+{
+  "name": "Morpheus: AI Storytelling Engine",
+  "description": "A hyper-adaptive and resilient AI storytelling engine that leverages a multi-agent system. It's designed to be immensely powerful with premier models like Gemini and fully self-sufficient when running offline with local AI models.",
+  "requestFramePermissions": []
+}
